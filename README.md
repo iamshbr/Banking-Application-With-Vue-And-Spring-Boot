@@ -33,7 +33,7 @@ enhanced with robust state management, and reusable components.
 
 ## 🎯 Features
 
-- User Login/Logout: Secure authentication using JWT and session-based logout.
+- User Login/Logout: Secure authentication using JWT.
 - Transfer Money: Send money between registered accounts.
 - Request Loan: Users can request a loan based.
 - Close Account: Allows users to permanently deactivate their accounts.
