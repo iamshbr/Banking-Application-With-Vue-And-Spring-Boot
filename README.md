@@ -1,4 +1,4 @@
-# ☀️ Simple Banking Application
+# Simple Banking Application
 
 The **Simple Banking Application** is a modern web-based banking solution
 designed to simulate core banking functionalities. It is built with Vue and
